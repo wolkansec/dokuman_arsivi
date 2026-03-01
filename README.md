@@ -16,8 +16,8 @@ Yıl | Sunum Konusu | Ders | Tür | Ekip Arkadaşları |
 | 2025 | DHCP Protokolü | Ağ Temelleri | Bireysel | - |
 | 2025 | Internet of Things (IoT) | Ağ Temelleri | Bireysel | - |
 | 2025 | Mavi Takım Tanımı | Ağ Temelleri | Bireysel | - |
-| 2025 | Data Loss Protection (DLP) | Veri Güvenliği | Grup | Onur Akçay, Volkan Özdemir |
+| 2025 | Data Loss Protection (DLP) | Veri Güvenliği | Grup | [Onur Akçay](https://www.linkedin.com/in/1onurakcay1/), [Volkan Özdemir](https://www.linkedin.com/in/wolkann/) |
 | 2025 | Mavi Takım Tanımı | Siber Saldırı ve Savunma 1 | Bireysel | - |
-| 2024 | Ağ Temelleri | Siber Güvenlik Temelleri | Grup | Onur Akçay, Volkan Özdemir |
-| 2024 | Bellek Yönetimi Sorunları | Bilgisayar ve Ağ Donanımları | Grup | Onur Akçay, Volkan Özdemir |
+| 2024 | Ağ Temelleri | Siber Güvenlik Temelleri | Grup | [Onur Akçay](https://www.linkedin.com/in/1onurakcay1/), [Volkan Özdemir](https://www.linkedin.com/in/wolkann/) |
+| 2024 | Bellek Yönetimi Sorunları | Bilgisayar ve Ağ Donanımları | Grup | [Onur Akçay](https://www.linkedin.com/in/1onurakcay1/), [Volkan Özdemir](https://www.linkedin.com/in/wolkann/) |
 | 2024 | Sızma Testi Aşamaları | Kariyer Programlama | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
