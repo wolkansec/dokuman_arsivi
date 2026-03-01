@@ -9,6 +9,12 @@ Bazı sunumlar, ekip çalışmasının bir parçası olarak hazırlanmıştır. 
 
 ## 📑 Sunum Listesi & Ekip Arkadaşlarım
 
-| Sunum Konusu | Ders | Tür | Ekip Arkadaşları |
-| :--- | :--- | :--- | :--- |
-| Yapay Zeka ve Etik | Bilgisayar Etiği | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
+Yıl | Sunum Konusu | Ders | Tür | Ekip Arkadaşları |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026 | Makineleri Nasıl Akıllandırırız? | Yapay Zeka ve Büyük Veri ile Finans | Bireysel | @ArkadasIsmi1, @ArkadasIsmi2 |
+| 2025 | Active Directory (AD) |  Güvenlik Altyapısının Denetimi ve Yönetimi | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
+| 2025 | Data Loss Protection (DLP) | Veri Güvenliği | Grup | Onur Akçay, Volkan Özdemir |
+| 2025 | Yapay Zeka ve Etik | Bilgisayar Etiği | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
+| 2024 | Ağ Temelleri | Siber Güvenlik Temelleri | Grup | Onur Akçay, Volkan Özdemir |
+| 2024 | Bellek Yönetimi Sorunları | Bilgisayar ve Ağ Donanımları | Grup | Onur Akçay, Volkan Özdemir |
+| 2024 | Sızma Testi Aşamaları | Kariyer Programlama | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
