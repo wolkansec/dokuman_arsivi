@@ -12,8 +12,8 @@ Bazı sunumlar, ekip çalışmasının bir parçası olarak hazırlanmıştır. 
 Yıl | Sunum Konusu | Ders | Tür | Ekip Arkadaşları |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026 | Makineleri Nasıl Akıllandırırız? | Yapay Zeka ve Büyük Veri ile Finans | Bireysel | - |
-| 2025 | Active Directory (AD) |  Güvenlik Altyapısının Denetimi ve Yönetimi | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
-| 2025 | Dynamic Host Configuration Protocol | Ağ Temelleri | Bireysel | - |
+| 2025 | Active Directory (AD) |  Güvenlik Altyapısının Denetimi ve Yönet. | Grup | @ArkadasIsmi1, @ArkadasIsmi2 |
+| 2025 | DHCP Protokolü | Ağ Temelleri | Bireysel | - |
 | 2025 | Internet of Things (IoT) | Ağ Temelleri | Bireysel | - |
 | 2025 | Mavi Takım Tanımı | Ağ Temelleri | Bireysel | - |
 | 2025 | Data Loss Protection (DLP) | Veri Güvenliği | Grup | Onur Akçay, Volkan Özdemir |
